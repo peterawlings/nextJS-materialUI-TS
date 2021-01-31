@@ -1,1 +1,1 @@
-# Next.js example
+# Next.js starter with Material UI and Typescript
